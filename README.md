@@ -22,3 +22,11 @@ Then it **elaborates** the entity defined by `$TB_ENTITY`
 Finally, the workflow **runs** the simulation. If successful then it will quietly exit with a `0` code.
 If any of the `assert` statements fail then GHDL will cease the simulation and exit with non-zero code; this will also cause the workflow to fail.
 Assert statements of other severity levels will be reported, but not fail the workflow.
+
+![Waveform image for ripple adder](ripple_adder_waveform.png)
+
+![Here is my quick representation of the top_basys3 entity](top_basys3_drawing.jpg)
+
+## DOCUMENTATION
+C3C Chaimin Ryou helped me with an issue where my testbench was detecting a failure.
+C3C Alexia Ursutu helped me to find my waveform when it did not originally appear after generating bitstream.

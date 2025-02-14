@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Feb 13 22:32:44 2025
+# Process ID: 26600
+# Current directory: C:/Users/C27Kyle.Southworth/ece281/ece281-ice3/ripple_adder_editable/ripple_adder_editable.runs/impl_1
+# Command line: vivado.exe -log top_basys3.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_basys3.tcl -notrace
+# Log file: C:/Users/C27Kyle.Southworth/ece281/ece281-ice3/ripple_adder_editable/ripple_adder_editable.runs/impl_1/top_basys3.vdi
+# Journal file: C:/Users/C27Kyle.Southworth/ece281/ece281-ice3/ripple_adder_editable/ripple_adder_editable.runs/impl_1\vivado.jou
+# Running On        :C27-5CG3121H1Y
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :AMD Ryzen 7 PRO 6850U with Radeon Graphics     
+# CPU Frequency     :2695 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :16442 MB
+# Swap memory       :11811 MB
+# Total Virtual     :28253 MB
+# Available Virtual :9394 MB
+#-----------------------------------------------------------
+source top_basys3.tcl -notrace

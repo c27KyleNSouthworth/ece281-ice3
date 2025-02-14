@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Feb 13 11:16:55 2025
+# Process ID: 3580
+# Current directory: C:/Users/C27Kyle.Southworth/ece281/ece281-ice3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent29904 C:\Users\C27Kyle.Southworth\ece281\ece281-ice3\ripple_adder.xpr
+# Log file: C:/Users/C27Kyle.Southworth/ece281/ece281-ice3/vivado.log
+# Journal file: C:/Users/C27Kyle.Southworth/ece281/ece281-ice3\vivado.jou
+# Running On        :C27-5CG3121H1Y
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :AMD Ryzen 7 PRO 6850U with Radeon Graphics     
+# CPU Frequency     :2695 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :16442 MB
+# Swap memory       :9616 MB
+# Total Virtual     :26059 MB
+# Available Virtual :5159 MB
+#-----------------------------------------------------------
+start_gui
+open_hw_manager
