@@ -47,10 +47,10 @@ begin
        -- TODO, a few other test cases
        w_addends <= x"81"; w_Cin <= '1'; wait for 10 ns;
            assert (w_sum = x"A" and w_Cout = '0') report "bad with A and zero" severity failure;
-       w_addends <= x"B1"; w_Cin <= '1'; wait for 10 ns;
+       w_addends <= x"B1"; w_Cin <= '0'; wait for 10 ns;
            assert (w_sum = x"C" and w_Cout = '0') report "bad with 67 and zero" severity failure;
        w_addends <= x"67"; w_Cin <= '0'; wait for 10 ns;
-           assert (w_sum = x"2" and w_Cout = '1') report "bad with 2 and one" severity failure;
+           assert (w_sum = x"D" and w_Cout = '0') report "bad with 2 and one" severity failure;
 	end process;	
 	-----------------------------------------------------	
 end test_bench;

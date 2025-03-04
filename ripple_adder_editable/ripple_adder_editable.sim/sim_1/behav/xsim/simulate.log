@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: bad with zeros
+Time: 10 ns  Iteration: 0  Process: /ripple_adder_tb/test_process  File: C:/Users/C27Kyle.Southworth/ece281/ece281-ice3/src/ripple_adder_tb.vhd
+$finish called at time : 10 ns : File "C:/Users/C27Kyle.Southworth/ece281/ece281-ice3/src/ripple_adder_tb.vhd" Line 43
